@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Full Stack Java Development
 
-- 🌱 Ask me about HTML,C,C++,Java,Bootsrap
+- 🌱 Ask me about HTML,C,C++,Java,Bootsrap,React
 
 - 📫 How to reach me ...:- patilshubhangi0297@gmail.com
   
